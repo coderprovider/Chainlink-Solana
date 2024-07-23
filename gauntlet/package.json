@@ -7,7 +7,7 @@
     "packages/*"
   ],
   "keywords": [
-    "typescript",
+    "typescript", 
     "cli"
   ],
   "main": "packages/gauntlet-solana-contracts/dist/index.js",
